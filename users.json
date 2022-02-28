@@ -13,4 +13,11 @@
     "roles": ["user"],
     "img": "https://fastify-jwt-auth-api.herokuapp.com/profile-pics/user.png"
   }
+  {
+    "fullname": "exposant",
+    "user": "exposant@gmail.com",
+    "password": "user_99",
+    "roles": ["user"],
+    "img": "https://fastify-jwt-auth-api.herokuapp.com/profile-pics/user.png"
+  }
 ]
