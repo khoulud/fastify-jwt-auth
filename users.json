@@ -1,0 +1,16 @@
+[
+  {
+    "fullname": "Nabil Alami",
+    "user": "admin@gmail.com",
+    "password": "123.pol_99",
+    "roles": ["admin", "user"],
+    "img": "https://fastify-jwt-auth-api.herokuapp.com/profile-pics/admin.png"
+  },
+  {
+    "fullname": "John Doe",
+    "user": "user@gmail.com",
+    "password": "user_99",
+    "roles": ["user"],
+    "img": "https://fastify-jwt-auth-api.herokuapp.com/profile-pics/user.png"
+  }
+]
